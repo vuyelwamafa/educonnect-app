@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088208887074",
+    "project_id": "cutnavigatorapp",
+    "storage_bucket": "cutnavigatorapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088208887074:android:bad8bb7ca96c10db52d97b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_i23GcSbEVHOoYXwHowFUQWPkmTcDGSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
